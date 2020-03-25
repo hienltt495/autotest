@@ -1,0 +1,15 @@
+METATAG:
+formattype, 1
+
+HEAD:
+NoiDen, Nơi đến
+NgayNhan, Ngày nhận phòng
+NgayTra, Ngày trả phòng
+NguoiLon, Số người lớn
+TreEm, Số trẻ em
+SoPhong, Số phòng 
+
+DATA:
+Hội An, 20/10/2019, 30/10/2019, 3, 2, 2
+Hà Nam, 25/11/2019, 30/10/2019, 3, 2, 2
+## ghi chú !

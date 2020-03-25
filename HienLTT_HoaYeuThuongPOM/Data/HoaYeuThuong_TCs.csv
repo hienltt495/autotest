@@ -1,0 +1,11 @@
+METATAG:
+formattype, 1
+
+HEAD:
+LoaiHoa, "Loại hoa"
+MucTien, "Mức tiền"
+
+DATA:
+8, 250000-350000
+23, 600000-800000
+## ghi chú !
